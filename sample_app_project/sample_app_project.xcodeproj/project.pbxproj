@@ -96,6 +96,7 @@
 		66C48AA71D4F7DFA008185AB /* .keep */ = {isa = PBXFileReference; lastKnownFileType = text; path = .keep; sourceTree = "<group>"; };
 		66C48AA91D4F7DFA008185AB /* .keep */ = {isa = PBXFileReference; lastKnownFileType = text; path = .keep; sourceTree = "<group>"; };
 		66C9A9D81D4FC0D400737458 /* static_pages_spec.rb */ = {isa = PBXFileReference; lastKnownFileType = text.script.ruby; path = static_pages_spec.rb; sourceTree = "<group>"; };
+		66C9A9D91D4FC9B800737458 /* about.html.erb */ = {isa = PBXFileReference; lastKnownFileType = text; path = about.html.erb; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -291,6 +292,7 @@
 		66C48A481D4F7DE8008185AB /* static_pages */ = {
 			isa = PBXGroup;
 			children = (
+				66C9A9D91D4FC9B800737458 /* about.html.erb */,
 				66C48A491D4F7DE8008185AB /* help.html.erb */,
 				66C48A4A1D4F7DE8008185AB /* home.html.erb */,
 			);
